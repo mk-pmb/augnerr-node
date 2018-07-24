@@ -1,0 +1,31 @@
+{ "name": "augnerr",
+  "version": "0.1.0",
+  "description": "Augment Node.js errors: Make some errors more helpful.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/augnerr-node/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/augnerr-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/augnerr-node/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "aug.node.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {
+    "esmod-pmb": "^0.1.5"
+  },
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
