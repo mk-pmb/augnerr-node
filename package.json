@@ -1,5 +1,5 @@
 { "name": "augnerr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Augment Node.js errors: Make some errors more helpful.",
   "keywords": [],
 

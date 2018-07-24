@@ -1,11 +1,11 @@
 ﻿
 <!--#echo json="package.json" key="name" underline="=" -->
-augmenterr
-==========
+augnerr
+=======
 <!--/#echo -->
 
 <!--#echo json="package.json" key="description" -->
-Make some errors more helpful.
+Augment Node.js errors: Make some errors more helpful.
 <!--/#echo -->
 
 
